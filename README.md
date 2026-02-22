@@ -39,4 +39,3 @@ Ultralytics YOLO team
 OpenCV community
 COCO dataset
 
-If you want, I can make a shorter README, academic-style README, or one with screenshots section.
