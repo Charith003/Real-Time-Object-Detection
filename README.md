@@ -46,7 +46,7 @@ Alert-based detection systems
 ### License:
 MIT License
 
-# Acknowledgements
+### Acknowledgements
 Ultralytics YOLO team
 
 OpenCV community
